@@ -1,5 +1,7 @@
 Prueba de texto plano
 
 control de versiones git
+prueba 2
+texto y linea agregada
 
 maximiliano rojas
