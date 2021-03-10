@@ -1,6 +1,18 @@
 body
 {
     text-align: center;
-    font-family: monospace;
+    font-family: Arial;
     color: blueviolet;
+    margin: 0;
+    padding: 0;
+}
+
+#container
+{
+    width: 70%;
+    text-align: left;
+    padding: 1em;
+    color:coral;
+    border:1px solid darkgray;
+    margin: auto;
 }
