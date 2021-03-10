@@ -1,12 +1,8 @@
 Prueba de texto plano
 
 control de versiones git
-prueba 2
-texto y linea agregada
 
 maximiliano rojas
 
-el toru es muy odioso y ladra todo el día
-le gusta jugar con la pelota
-
-La naty tiene que ir a buscar los examenes
+El toru se ha portado muy bien
+Y se comio la comidita
