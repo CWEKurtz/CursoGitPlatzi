@@ -2,7 +2,7 @@ body
 {
     text-align: center;
     font-family: Arial;
-    color: blueviolet;
+    color: greenyellow;
     margin: 0;
     padding: 0;
 }
@@ -12,7 +12,7 @@ body
     width: 70%;
     text-align: left;
     padding: 0em;
-    color: violet;
+    color: rgb(3,3,3);
     border:1px solid darkgray;
     margin: auto;
 }
